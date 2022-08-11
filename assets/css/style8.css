@@ -1,0 +1,71 @@
+body, ul{
+    margin: 0px;
+}
+
+.features {
+    text-align: center;
+    margin: 4em 0;
+    border: solid 1px #333;
+    padding: 1em;
+    color: #333;
+    background-color: gainsboro;
+    clear: fix;
+}
+
+.features i {
+    display: block;
+    padding: 0.5em;
+}
+
+.feature {
+    width: 30%;
+    padding: 1%;
+    float: left;
+}
+
+.features h2 {
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+.menu {
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    display: flow-root;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    color: goldenrod;
+}
+
+.gallery{ 
+    padding: 10px 150px;
+}
+
+.photo {
+    float: left;
+    width: 30%;
+    border: solid 1px #ccc;
+    margin: 0.75%;
+    padding: 0.75%;
+}
+
+.photo img{
+    width: 100%;
+}
+
+.photo p{
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.Alinear_Flex{
+    display: flex;
+    justify-content: center;
+}
+.big{
+    padding-top: 25px;
+}
+h2{
+    margin-top: 45px;
+    margin-left: 305px;
+}
+p{
+    padding-right: 250px;
+    padding-left: 250px;
+}
+ul{
+    padding-left: 250px;
+}
